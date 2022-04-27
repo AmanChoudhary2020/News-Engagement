@@ -1,0 +1,44 @@
+SS_Article_Text
+SS_Article_Text_Log_Transform
+article_content_clean
+Splitting training and testing datasets...
+Selecting optimal alpha parameter...
+Optimal Alpha Parameter:
+10
+score:
+0.023856776675506786
+
+
+Jaccard_Coef_Article
+Jaccard_Coef_Article_Log_Transform
+article_content_clean
+Splitting training and testing datasets...
+Selecting optimal alpha parameter...
+Optimal Alpha Parameter:
+10
+score:
+0.011974322811822424
+
+
+SS_Article_Headline
+SS_Article_Headline_Log_Transform
+headline_content_clean
+Splitting training and testing datasets...
+Selecting optimal alpha parameter...
+Optimal Alpha Parameter:
+100
+score:
+0.005640598185167711
+
+
+Jaccard_Coef_Headline
+Jaccard_Coef_Headline_Log_Transform
+headline_content_clean
+Splitting training and testing datasets...
+Selecting optimal alpha parameter...
+Optimal Alpha Parameter:
+100
+score:
+0.013286533077014218
+
+

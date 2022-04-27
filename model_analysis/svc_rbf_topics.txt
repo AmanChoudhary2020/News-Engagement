@@ -1,0 +1,44 @@
+SS_Article_Text
+SS_Article_Text_Log_Transform
+article_content_clean
+Splitting training and testing datasets...
+Selecting optimal C parameter...
+Optimal C Parameter:
+1000
+score:
+0.5846951602765557
+
+
+Jaccard_Coef_Article
+Jaccard_Coef_Article_Log_Transform
+article_content_clean
+Splitting training and testing datasets...
+Selecting optimal C parameter...
+Optimal C Parameter:
+1000
+score:
+0.557315233785822
+
+
+SS_Article_Headline
+SS_Article_Headline_Log_Transform
+headline_content_clean
+Splitting training and testing datasets...
+Selecting optimal C parameter...
+Optimal C Parameter:
+1000
+score:
+0.5447116140185447
+
+
+Jaccard_Coef_Headline
+Jaccard_Coef_Headline_Log_Transform
+headline_content_clean
+Splitting training and testing datasets...
+Selecting optimal C parameter...
+Optimal C Parameter:
+1000
+score:
+0.5296074517631404
+
+
