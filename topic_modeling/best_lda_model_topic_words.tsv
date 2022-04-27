@@ -1,0 +1,11 @@
+topic	topic_words
+0	['use', 'anim', 'food', 'worker', 'speci', 'human', 'studi', 'found', 'research', 'farm', 'drug', 'work', 'product', 'plastic', 'natur', 'plant', 'water', 'diseas', 'chemic', 'caus']
+1	['china', 'climat', 'fire', 'heat', 'state', 'chang', 'water', 'temperatur', 'world', 'australia', 'extrem', 'record', 'chines', 'flood', 'region', 'weather', 'area', 'citi', 'day', 'west']
+2	['news', 'hong', 'kong', 'game', 'ice', 'use', 'compani', 'media', 'video', '‘', 'secur', 'worker', 'film', 'star', 'author', 'research', 'qatar', 'work', 'mcafe', 'nation']
+3	['%', 'climat', 'compani', '$', 'emiss', 'global', 'uk', 'energi', 'chang', 'world', 'industri', 'need', 'increas', '1', 'tax', 'price', 'fuel', 'oil', 'carbon', '(']
+4	['women', 'school', 'children', 'work', 'famili', 'mani', 'right', 'becaus', 'live', 'like', 'commun', 'law', '(', 'court', 'home', 'life', 'nation', 'call', 'day', 'want']
+5	['polic', 'state', 'right', 'offic', 'trump', 'investig', 'presid', 'elect', 'parti', 'law', 'polit', 'use', 'protest', 'group', 'vote', 'call', 'arrest', 'biden', 'claim', 'former']
+6	['vaccin', 'covid', 'case', 'health', '19', '%', 'week', 'get', 'variant', 'day', 'infect', 'hospit', 'test', 'pandem', 'dose', 'delta', 'state', 'number', 'death', 'coronaviru']
+7	['eu', 'england', 'game', 'uk', 'go', 'olymp', 'team', 'come', 'get', 'play', 'take', 'back', 'sport', 'right', 'make', '?', 'player', 'min', 'ireland', 'brexit']
+8	['taliban', 'afghanistan', 'afghan', 'kabul', 'forc', 'militari', 'airport', 'evacu', 'uk', 'secur', 'citi', 'offici', 'attack', 'british', 'work', 'troop', 'group', 'day', 'nation', 'mani']
+9	"['bolsonaro', '""', 'barti', 'tigray', 'kill', 'women', ""'"", 'chines', 'brazil', ')', '(', 'lama', '6', 'forc', 'region', 'dalai', 'next', 'rape', 'court', 'spear']"
