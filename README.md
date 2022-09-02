@@ -15,7 +15,7 @@ Comment: “I pray the Cardinal recovers with a new outlook on life, the virus, 
 
 Article Headline: “Vaccine skeptic US cardinal on ventilator after Covid diagnosis”
 
-Jaccard Similarity: 4/(56 + 6) = 0.071428571 
+Jaccard Similarity: 4/(56 + 6) = 0.071428571 <br />
 Semantic Similarity: 0.591390132
 
 # Registering for The Guardian Key
